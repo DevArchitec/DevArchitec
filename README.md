@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack developer with expertise in Next.js and Zoho Catalyst. Passionate about writing clean and efficient code. Always looking to learn new technologies.<br>shoot me a email [Here](mailto:ashishsaiwal.dev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or add me on linkedin :)
+Full stack developer with expertise in Next.js and Zoho Catalyst. Passionate about writing clean and efficient code. Always looking to learn new technologies.<br>shoot me a email [Here](mailto:ashishsaiwal.dev@gmail.com?subject=[GitHub]%20Source) or add me on linkedin :)
 
 
 ## 🌐 Socials:
